@@ -1,8 +1,10 @@
-
+import Featured from "../../components/featured/Featured";
 
 function Home() {
   return (
-    <div>Home</div>
+    <div>
+      <Featured />
+    </div>
   )
 }
 
